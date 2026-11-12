@@ -1,6 +1,8 @@
 # Renata Arévalo Urra Paper Design - Bitácora de proyecto Examen
 
 
+### Link Prototipo Figma: https://www.figma.com/design/kMhjW5vmicuQDVx1cX9iJS/Examen---Dise%C3%B1o-de-Interfaces-web?m=auto&t=0ejRBgbV7zokwhhN-1
+
 ## Descripción general del proyecto
 
 Este proyecto consiste en el diseño de una **página web tipo catálogo para Paper Design**, un emprendimiento familiar creado en 2020, dedicado a la papelería y los productos personalizados. Entre sus productos se encuentran chapitas, stickers, etiquetas, llaveros y otros artículos gráficos realizados a pedido.
